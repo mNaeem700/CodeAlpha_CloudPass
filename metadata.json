@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Bus Pass & Ticket System",
+  "description": "Scalable cloud-hosted bus pass & online ticket booking platform with secure anti-loss digital passes, live auto-scaling visualizer, conductor validator, and route management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
