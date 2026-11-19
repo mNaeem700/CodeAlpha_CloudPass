@@ -89,6 +89,7 @@ npm run dev
 
 ### Production Build
 To bundle the frontend assets with Vite and compile `server.ts` into a self-contained `dist/server.cjs` file using `esbuild`:
+Read more about my projects on https://neemii.dev/projects/
 ```bash
 npm run build
 ```
